@@ -1,0 +1,23 @@
+{
+  "name": "api-fixture",
+  "version": "0.0.1",
+  "description": "Module for creating real fixture for testing by api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nikita Shuklin",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^0.26.7",
+    "async": "*",
+    "request": "*"
+  },
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "chai": "^3.5.0",
+    "express": "*",
+    "mocha": "^2.4.5",
+    "mongoose": "^4.4.8"
+  }
+}

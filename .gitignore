@@ -1,0 +1,7 @@
+node_modules/
+npm-cache/
+bower_components/
+.idea/
+dist/
+build/
+static/js/bower
